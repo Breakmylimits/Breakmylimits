@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm mark</h1>
 <div id="header" align="center">
  
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20xcjRhaTE0djdlcXE1aXJiazlwMTRvc3ZjZDhsbmRoNGlzNXQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="800"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20xcjRhaTE0djdlcXE1aXJiazlwMTRvc3ZjZDhsbmRoNGlzNXQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="500"/>
 </div>
 
 
