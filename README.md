@@ -1,9 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm mark</h1>
 <h3 align="center">I'm a full stack developer in Thailand.</h3>
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@zachking/video/6749520869598481669" data-video-id="6749520869598481669" data-embed-from="oembed" style="max-width:605px; min-width:325px;"> <section> <a target="_blank" title="@zachking" href="https://www.tiktok.com/@zachking?refer=embed">@zachking</a> <p>Do you see the glass as half full or half empty?? <a title="perspective" target="_blank" href="https://www.tiktok.com/tag/perspective?refer=embed">#perspective</a> <a title="magic" target="_blank" href="https://www.tiktok.com/tag/magic?refer=embed">#magic</a></p> <a target="_blank" title="♬ Glass Half Full Zach King - Zach King" href="https://www.tiktok.com/music/Glass-Half-Full-Zach-King-6749517306881248005?refer=embed">♬ Glass Half Full Zach King - Zach King</a> </section> </blockquote> 
 
-<script async onerror="var a=document.createElement('script');a.src='https://iframely.net/files/tiktok-embed.js';document.body.appendChild(a);" src="https://www.tiktok.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breakmylimits&label=Profile%20views&color=0e75b6&style=flat" alt="breakmylimits" /> </p>
 
